@@ -1,8 +1,9 @@
 package src.java;
 
-public class search {
+public class test 
+{
     public static void main(String[] args) {
-        System.out.println("search");
+        System.out.println("testtest");
     }
     
 }
